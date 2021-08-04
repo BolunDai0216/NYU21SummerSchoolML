@@ -18,5 +18,10 @@
 
 ## Day 3
  - [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%203/Day_3__Overfitting_and_Regularization.pdf)
- - [Polynomial Fitting](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%203/demo_fit_polynomial.ipynb)
- - [Overfitting and Regularization](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%203/demo_overfitting_regularization.ipynb)
+ - [Polynomial Fitting](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%203/demo_fit_polynomial.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%203/demo_fit_polynomial_solution.ipynb)
+ - [Overfitting and Regularization](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%203/demo_overfitting_regularization.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%203/demo_overfitting_regularization_solution.ipynb)
+
+## Day 4
+ - [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%204/Day_4__Linear_Classifiers.pdf)
+ - [Breast Cancer Detection](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%204/demo_breast_cancer.ipynb)
+ - [Iris Classification](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%204/demo_iris.ipynb)
