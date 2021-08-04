@@ -14,7 +14,7 @@
 - [Basics of Matplotlib](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%202/demo_plot.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%202/demo_plot_with_solution.ipynb)
 - [IMDB dataset Visualization](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%202/lab_icebreaker.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%202/lab_icebreaker_with_solution.ipynb)
 - [Linear Regression](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%202/demo_boston_housing_one_variable.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%202/demo_boston_housing_one_variable_sol.ipynb)
-- [Multilinear Regression](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%202/demo_multilinear.ipynb)
+- [Multilinear Regression](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%202/demo_multilinear.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%202/demo_multilinear_sol.ipynb)
 
 ## Day 3
  - [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%203/Day_3__Overfitting_and_Regularization.pdf)
