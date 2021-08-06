@@ -25,3 +25,7 @@
  - [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%204/Day_4__Linear_Classifiers.pdf)
  - [Breast Cancer Detection](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%204/demo_breast_cancer.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%204/demo_breast_cancer_solution.ipynb)
  - [Iris Classification](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%204/demo_iris.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%204/demo_iris_solution.ipynb)
+
+## Day 5
+ - [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%205/lecture05_Mini_Project.pdf)
+ - [Mini Project](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%205/fish_market.ipynb)
