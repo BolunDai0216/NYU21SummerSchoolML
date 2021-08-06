@@ -28,4 +28,4 @@
 
 ## Day 5
  - [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%205/lecture05_Mini_Project.pdf)
- - [Mini Project](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%205/fish_market.ipynb)
+ - [Mini Project](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%205/fish_market.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%205/fish_market_sol.ipynb)
