@@ -32,3 +32,4 @@
 
 ## Day 6
 - [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%206/Day_6__Neural_Networks.pdf)
+- [Keras Basics](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%206/demo_tf_keras_basics.ipynb)
