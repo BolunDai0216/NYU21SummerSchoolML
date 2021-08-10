@@ -34,3 +34,10 @@
 - [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%206/Day_6__Neural_Networks.pdf)
 - [Keras Basics](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%206/demo_tf_keras_basics.ipynb)
 - [Fish Market](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%206/lab_mlp_fish_market_keras.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%206/lab_mlp_fish_market_keras_sol.ipynb)
+
+## Day 7
+- [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/Day%207%20Convolutional%20Neural%20Networks.pdf)
+- [Images in Computer](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/Images_In_Computer_Demo.ipynb)
+- [Filters Demonstration](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/Kernels_Demo.ipynb)
+- [CNN Example](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/cnn_example.ipynb)
+- [MNIST Dataset](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/demo_MNIST.ipynb)
