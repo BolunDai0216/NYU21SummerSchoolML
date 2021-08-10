@@ -41,4 +41,4 @@
 - [Filters Demonstration](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/Kernels_Demo.ipynb)
 - [CNN Example](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/cnn_example.ipynb)
 - [MNIST Dataset](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/demo_MNIST.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/demo_MNIST_solution.ipynb)
-- [Transfer Learning](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/lab_transfer_learning_dog_cat.ipynb)
+- [Transfer Learning](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/lab_transfer_learning_dog_cat.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/lab_transfer_learning_dog_cat_solution.ipynb)
