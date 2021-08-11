@@ -42,3 +42,8 @@
 - [CNN Example](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/cnn_example.ipynb)
 - [MNIST Dataset](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/demo_MNIST.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/demo_MNIST_solution.ipynb)
 - [Transfer Learning](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/lab_transfer_learning_dog_cat.ipynb)[[Solution]](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%207/lab_transfer_learning_dog_cat_solution.ipynb)
+
+## Day 8
+- [Final Project](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%208/Final_Project.pdf)
+- [CIFAR10](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%208/CIFAR.ipynb)
+- [Car Classification](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%208/car_keras.ipynb)
