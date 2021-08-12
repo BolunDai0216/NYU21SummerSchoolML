@@ -47,3 +47,6 @@
 - [Final Project](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%208/Final_Project.pdf)
 - [CIFAR10](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%208/CIFAR.ipynb)
 - [Car Classification](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%208/car_keras.ipynb)
+
+## Day 10
+- [Going Further With ML and DL](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%2010/Going_Further_with_ML_DL.pdf)
