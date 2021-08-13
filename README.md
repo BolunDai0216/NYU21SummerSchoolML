@@ -50,3 +50,4 @@
 
 ## Day 10
 - [Going Further With ML and DL](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%2010/Going_Further_with_ML_DL.pdf)
+- [Final Project Solution](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%2010/CIFAR_solution.ipynb)
