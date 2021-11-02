@@ -1,7 +1,5 @@
-# NYU21SummerSchoolML
-[Ice Breaking Dataset](https://docs.google.com/spreadsheets/d/1RZ5YzxpeLsS16EGDoPcF4PM5WLGAGXrwq5ZCF4KNcaQ/edit?usp=sharing)
-
-[Campuswire Invite Link](https://campuswire.com/p/GDCEB5FDA) (Code: 1412)
+![NYU Tandon Logo](tandon_short_purple.png)
+# NYU Machine Learning Summer School (2021)
 
 ## Day 1
 - [Slides](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%201/Day%201%20Introduction%20to%20Machine%20Learning.pdf)
@@ -51,3 +49,23 @@
 ## Day 10
 - [Going Further With ML and DL](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%2010/Going_Further_with_ML_DL.pdf)
 - [Final Project Solution](https://github.com/BolunDai0216/NYU21SummerSchoolML/blob/main/Day%2010/CIFAR_solution.ipynb)
+
+
+# Notes
+ - The icebreaking dataset is removed due to privacy concerns.
+ - Day 9 is dedicated to finish the final project, thus, there are no lecture slides.
+
+# Contributors
+ - Bolun Dai
+ - Alireza Sarmadi
+ - Virinchi Roy Surabhi
+ - Hao Fu
+ - Anand Sabulal
+ - Tommy Azzino
+ - Huaijiang Zhu
+ - Armand Jordana
+ - Naman Patel
+ - Nikola Janjušević
+ - Akshaj Kumar Veldanda
+ - Jacky Yuan
+ - Tejaishwarya Gagadam
